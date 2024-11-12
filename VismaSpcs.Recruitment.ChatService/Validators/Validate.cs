@@ -1,4 +1,4 @@
-﻿namespace VismaSpcs.Recruitment.ChatService.Exceptions
+﻿namespace VismaSpcs.Recruitment.ChatService.Validators
 {
     public static class Validate
     {
