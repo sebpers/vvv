@@ -1,0 +1,98 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Static Libraries
+*.lib
+*.a
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+*.apk
+
+# Debug files
+*.pdb
+*.idb
+*.DS_Store
+.DS_Store
+
+# Logs
+*.log
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+*.temp
+*.~undo-tree~
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Node.js files
+node_modules/
+
+# ASP.NET Core specific files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*.localhistory
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+Debug/
+Release/
+
+# Rider-specific files
+.idea/
+.idea_modules/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/.name
+
+# Package directories
+*.nuget/
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# macOS Finder
+.DS_Store
+
+# Linux files
+*.pid
+
+# Windows
+Thumbs.db
+ehthumbs.db
